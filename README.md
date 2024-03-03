@@ -13,7 +13,7 @@
    - ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 👨‍💼 **Experience:**
-   - 6+ years as a content writer & Process-oriented Data/Business Analyst
+   - 7 years as a content writer & Process-oriented Data/Business Analyst
    - Interpretation of complex data and business problems
    - Expertise in team management and project planning
 
