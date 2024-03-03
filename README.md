@@ -12,8 +12,15 @@
    - ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
    - ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
+🛠️ **Projects:**
+
+   - Delhivery (https://github.com/Smtkmr102/Projects/tree/main/Delhivery)
+   - Walmart (https://github.com/Smtkmr102/Projects/tree/main/Walmart)
+
 👨‍💼 **Experience:**
    - 7 years as a content writer & Process-oriented Data/Business Analyst
    - Interpretation of complex data and business problems
    - Expertise in team management and project planning
 
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
