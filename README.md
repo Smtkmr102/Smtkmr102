@@ -27,18 +27,16 @@
 🎓 **Certifications:**
    - **Supply Chain & Demand Analytics 2022**  
      *Indian Institute of Management Mumbai*
-   ![IIM Mumbai Logo](https://example.com/iim-mumbai-logo.png)
+  
 
 🏆 **Achievements:**
    - **Appeared in DRDO Interview for Scientist Post (2019)**  
      *Defense Research and Development Organization (DRDO)*  
      Score: 79/100  
-     ![DRDO Logo](https://example.com/drdo-logo.png)
-
+    
    - **Appeared in ISRO Interview for Scientist Post (2020)**  
      *Indian Space Research Organisation (ISRO)*  
      Score: 63.74/100  
-     ![ISRO Logo](https://example.com/isro-logo.png)
 
    - **Gate-2017 Score 772/1000**  
      *Indian Institute of Technology Roorkee*
