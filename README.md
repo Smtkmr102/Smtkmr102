@@ -16,6 +16,8 @@
 
    - Delhivery (https://github.com/Smtkmr102/Projects/tree/main/Delhivery)
    - Walmart (https://github.com/Smtkmr102/Projects/tree/main/Walmart)
+   - HR Analytics Dashboard (https://public.tableau.com/app/profile/sumit.kumar7799/viz/HRAnalyticsDashboard_16933163205850/HRAnalyticsDashboard)
+   - USA Sales Dashboard (https://public.tableau.com/app/profile/sumit.kumar7799/viz/USASalesDashboard_16932152318240/USASampleStoreSalesDashboard)
 
 👨‍💼 **Experience:**
    - 7 years as a content writer & Process-oriented Data/Business Analyst
