@@ -41,4 +41,4 @@
    - **Gate-2017 Score 772/1000**  
      *Indian Institute of Technology Roorkee*
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smtkmr102&show_icons=true&hide_title=true)
