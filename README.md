@@ -42,3 +42,5 @@
      *Indian Institute of Technology Roorkee*
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smtkmr102&show_icons=true&hide_title=true)
+
+https://github.com/Smtkmr102/AI-Blogs-Infographics/Website.html
